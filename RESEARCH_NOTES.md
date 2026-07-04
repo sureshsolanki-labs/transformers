@@ -1,6 +1,6 @@
 # RESEARCH_NOTES
 
-**Domain:** AI Foundation
+**Domain:** AI Foundation & Infra
 **Upstream:** https://github.com/huggingface/transformers
 **Fork:** https://github.com/sureshsolanki-labs/transformers
 **Priority:** High
